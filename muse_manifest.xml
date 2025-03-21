@@ -1,0 +1,213 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1741940438097">
+  <folder name="css">
+    <file name="site_global.css" crc="4091947754"/>
+    <file name="master_a-master.css" crc="72515253" ref="cuarto-b:agenda-personal:quinto-b:galería:index:horario-escolar:contacto:identidad:datos:niveles:registro-de-notas:calendario-escolar:tercero-b:reseña:envío-de-archivos:exámen:calendarización:tutores:misión---visión:producto"/>
+    <file name="nomq_preview_master_a-master.css" crc="4017673555" ref="cuarto-b:agenda-personal:quinto-b:galería:index:horario-escolar:contacto:identidad:datos:niveles:registro-de-notas:calendario-escolar:tercero-b:reseña:envío-de-archivos:exámen:calendarización:tutores:misión---visión:producto"/>
+    <file name="cuarto-b.css" crc="505379595" ref="cuarto-b"/>
+    <file name="nomq_cuarto-b.css" crc="380582114" ref="cuarto-b"/>
+    <file name="agenda-personal.css" crc="505379595" ref="agenda-personal"/>
+    <file name="nomq_agenda-personal.css" crc="380582114" ref="agenda-personal"/>
+    <file name="quinto-b.css" crc="505379595" ref="quinto-b"/>
+    <file name="nomq_quinto-b.css" crc="380582114" ref="quinto-b"/>
+    <file name="galer_a.css" crc="4090739" ref="galería"/>
+    <file name="nomq_galer_a.css" crc="3858828409" ref="galería"/>
+    <file name="index.css" crc="340947567" ref="index"/>
+    <file name="nomq_index.css" crc="3915121533" ref="index"/>
+    <file name="horario-escolar.css" crc="505379595" ref="horario-escolar"/>
+    <file name="nomq_horario-escolar.css" crc="380582114" ref="horario-escolar"/>
+    <file name="contacto.css" crc="56113170" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="419276910" ref="contacto"/>
+    <file name="identidad.css" crc="293030406" ref="identidad"/>
+    <file name="nomq_identidad.css" crc="4128845909" ref="identidad"/>
+    <file name="datos.css" crc="3954709021" ref="datos"/>
+    <file name="nomq_datos.css" crc="24321320" ref="datos"/>
+    <file name="niveles.css" crc="505379595" ref="niveles"/>
+    <file name="nomq_niveles.css" crc="380582114" ref="niveles"/>
+    <file name="registro-de-notas.css" crc="3816116731" ref="registro-de-notas"/>
+    <file name="nomq_registro-de-notas.css" crc="390987593" ref="registro-de-notas"/>
+    <file name="calendario-escolar.css" crc="505379595" ref="calendario-escolar"/>
+    <file name="nomq_calendario-escolar.css" crc="380582114" ref="calendario-escolar"/>
+    <file name="tercero-b.css" crc="354492168" ref="tercero-b"/>
+    <file name="nomq_tercero-b.css" crc="4178854999" ref="tercero-b"/>
+    <file name="rese_a.css" crc="316098549" ref="reseña"/>
+    <file name="nomq_rese_a.css" crc="4211300940" ref="reseña"/>
+    <file name="env_o-de-archivos.css" crc="4120774716" ref="envío-de-archivos"/>
+    <file name="nomq_env_o-de-archivos.css" crc="4004019421" ref="envío-de-archivos"/>
+    <file name="ex_men.css" crc="4263209838" ref="exámen"/>
+    <file name="nomq_ex_men.css" crc="3825183207" ref="exámen"/>
+    <file name="calendarizaci_n.css" crc="505379595" ref="calendarización"/>
+    <file name="nomq_calendarizaci_n.css" crc="380582114" ref="calendarización"/>
+    <file name="tutores.css" crc="505379595" ref="tutores"/>
+    <file name="nomq_tutores.css" crc="380582114" ref="tutores"/>
+    <file name="misi_n---visi_n.css" crc="206032292" ref="misión---visión"/>
+    <file name="nomq_misi_n---visi_n.css" crc="4115966178" ref="misión---visión"/>
+    <file name="producto.css" crc="4047286853" ref="producto"/>
+    <file name="nomq_producto.css" crc="3986818293" ref="producto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="museutils.js" crc="3803043152" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="whatinput.js" crc="86476730" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="museconfig.js" crc="380897831" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:contacto:registro-de-notas"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="webpro.js" crc="242022427" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u455.php" crc="3949088207" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="require.js" crc="4157109226" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="form-u2320.php" crc="512150714" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="michel delgado.jpg" crc="4253136501" ref="index:registro-de-notas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:identidad:niveles:galería:contacto:tercero-b:reseña:misión---visión:quinto-b:cuarto-b:datos:horario-escolar:registro-de-notas:envío-de-archivos:producto:exámen:calendarización:tutores:agenda-personal:calendario-escolar"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:registro-de-notas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="index:registro-de-notas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+    </file>
+    <file name="insignia_sin_fondo.png" crc="4174217509" ref="index:registro-de-notas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+    </file>
+    <file name="2017-01-21.jpg" crc="4251692289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="481191439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="480947113_666001982446576_1393922192210038509_n.jpg" crc="3856650114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arleft1.png" crc="1459088" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arright1.png" crc="269558854" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="facebook-u10807-fr.png" crc="3916636266" ref="index"/>
+    <file name="gorjeo-u10953-fr.png" crc="6611657" ref="index"/>
+    <file name="youtube-u10967-fr.png" crc="4213285692" ref="index"/>
+    <file name="pattern-4tsm.jpg" crc="145365967" ref="index:contacto">
+      <caption webpage="index" alt="ENVIAR"/>
+    </file>
+    <file name="llamada-telefonica.png" crc="4673227" ref="index:registro-de-notas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="exámen" alt=""/>
+      <caption webpage="exámen" alt=""/>
+    </file>
+    <file name="youtube-u10967-fr2.png" crc="487541219" ref="index"/>
+    <file name="gorjeo-u10953-fr2.png" crc="502647606" ref="index"/>
+    <file name="imagen pegada 616x773.jpg" crc="195779332" seo="true" ref="reseña">
+      <caption webpage="reseña" alt=""/>
+      <caption webpage="reseña" alt=""/>
+    </file>
+    <file name="mision.png" crc="340265945" seo="true" ref="misión---visión">
+      <caption webpage="misión---visión" alt=""/>
+      <caption webpage="misión---visión" alt=""/>
+    </file>
+    <file name="vision.png" crc="310626792" seo="true" ref="misión---visión">
+      <caption webpage="misión---visión" alt=""/>
+      <caption webpage="misión---visión" alt=""/>
+    </file>
+    <file name="horario.jpg" crc="212216254" seo="true" ref="datos">
+      <caption webpage="datos" alt=""/>
+      <caption webpage="datos" alt=""/>
+    </file>
+    <file name="calendarizacion 2025.jpg" crc="4036273611" seo="true" ref="datos">
+      <caption webpage="datos" alt=""/>
+      <caption webpage="datos" alt=""/>
+    </file>
+    <file name="imagen pegada 790x472.jpg" crc="4256686796" seo="true" ref="registro-de-notas">
+      <caption webpage="registro-de-notas" alt=""/>
+      <caption webpage="registro-de-notas" alt=""/>
+    </file>
+    <file name="imagen pegada 225x225.jpg" crc="3923684921" seo="true" ref="envío-de-archivos:producto">
+      <caption webpage="producto" alt=""/>
+      <caption webpage="producto" alt=""/>
+      <caption webpage="producto" alt=""/>
+      <caption webpage="producto" alt=""/>
+      <caption webpage="envío-de-archivos" alt=""/>
+      <caption webpage="envío-de-archivos" alt=""/>
+      <caption webpage="envío-de-archivos" alt=""/>
+      <caption webpage="envío-de-archivos" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4139961832" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="identidad.html" crc="4115127941" seo="true" mt="1741939528823" redirect="true"/>
+  <file name="niveles.html" crc="364553618" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="galería.html" crc="155449808" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="contacto.html" crc="380171731" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="tercero-b.html" crc="4251813668" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="reseña.html" crc="4011474658" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="misión---visión.html" crc="489013153" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="quinto-b.html" crc="3892800277" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="cuarto-b.html" crc="493206393" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="datos.html" crc="33998898" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="horario-escolar.html" crc="10226404" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="registro-de-notas.html" crc="488449162" seo="true" mt="1741940224267" redirect="true"/>
+  <file name="envío-de-archivos.html" crc="48943188" seo="true" mt="1741940387922" redirect="true"/>
+  <file name="producto.html" crc="11391578" seo="true" mt="1741940353304" redirect="true"/>
+  <file name="exámen.html" crc="3777409488" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="calendarización.html" crc="258425461" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="tutores.html" crc="3881379234" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="agenda-personal.html" crc="103575633" seo="true" mt="1741939528810" redirect="true"/>
+  <file name="calendario-escolar.html" crc="232598323" seo="true" mt="1741939528810" redirect="true"/>
+</manifest>
